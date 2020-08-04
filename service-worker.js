@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/create-react-sports-game-assessment/precache-manifest.2222818f409397bb217d96a478955747.js"
+  "/create-react-sports-game-assessment/precache-manifest.2e91fa633d3e520494e0ee708e1fc88e.js"
 );
 
 self.addEventListener('message', (event) => {

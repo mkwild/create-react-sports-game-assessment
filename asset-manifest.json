@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/create-react-sports-game-assessment/static/css/main.d651f263.chunk.css",
-    "main.js": "/create-react-sports-game-assessment/static/js/main.046db270.chunk.js",
-    "main.js.map": "/create-react-sports-game-assessment/static/js/main.046db270.chunk.js.map",
+    "main.css": "/create-react-sports-game-assessment/static/css/main.413fa3b6.chunk.css",
+    "main.js": "/create-react-sports-game-assessment/static/js/main.4644994c.chunk.js",
+    "main.js.map": "/create-react-sports-game-assessment/static/js/main.4644994c.chunk.js.map",
     "runtime-main.js": "/create-react-sports-game-assessment/static/js/runtime-main.4070c186.js",
     "runtime-main.js.map": "/create-react-sports-game-assessment/static/js/runtime-main.4070c186.js.map",
     "static/js/2.fbb68554.chunk.js": "/create-react-sports-game-assessment/static/js/2.fbb68554.chunk.js",
     "static/js/2.fbb68554.chunk.js.map": "/create-react-sports-game-assessment/static/js/2.fbb68554.chunk.js.map",
     "index.html": "/create-react-sports-game-assessment/index.html",
-    "precache-manifest.2222818f409397bb217d96a478955747.js": "/create-react-sports-game-assessment/precache-manifest.2222818f409397bb217d96a478955747.js",
+    "precache-manifest.2e91fa633d3e520494e0ee708e1fc88e.js": "/create-react-sports-game-assessment/precache-manifest.2e91fa633d3e520494e0ee708e1fc88e.js",
     "service-worker.js": "/create-react-sports-game-assessment/service-worker.js",
-    "static/css/main.d651f263.chunk.css.map": "/create-react-sports-game-assessment/static/css/main.d651f263.chunk.css.map",
+    "static/css/main.413fa3b6.chunk.css.map": "/create-react-sports-game-assessment/static/css/main.413fa3b6.chunk.css.map",
     "static/js/2.fbb68554.chunk.js.LICENSE.txt": "/create-react-sports-game-assessment/static/js/2.fbb68554.chunk.js.LICENSE.txt",
     "static/media/App.css": "/create-react-sports-game-assessment/static/media/background.59f365b9.jpg",
     "static/media/logo1.png": "/create-react-sports-game-assessment/static/media/logo1.a26d4543.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.4070c186.js",
     "static/js/2.fbb68554.chunk.js",
-    "static/css/main.d651f263.chunk.css",
-    "static/js/main.046db270.chunk.js"
+    "static/css/main.413fa3b6.chunk.css",
+    "static/js/main.4644994c.chunk.js"
   ]
 }
