@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6cf95e8a2e27a29ea00abca8e4f3722",
+    "revision": "ca6ba474bca69c7229451fdda3172bf1",
     "url": "/react-sports-game-assessment/index.html"
   },
   {
-    "revision": "e04300e827749968e80e",
+    "revision": "306dd0b8c4f1446ac140",
     "url": "/react-sports-game-assessment/static/css/main.c884662b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-sports-game-assessment/static/js/2.fbb68554.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e04300e827749968e80e",
-    "url": "/react-sports-game-assessment/static/js/main.a568e16f.chunk.js"
+    "revision": "306dd0b8c4f1446ac140",
+    "url": "/react-sports-game-assessment/static/js/main.a4f2dfaa.chunk.js"
   },
   {
     "revision": "869bfc85debc3fcd1f5b",
