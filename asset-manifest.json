@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-sports-game-assessment/static/css/main.c884662b.chunk.css",
+    "main.js": "/react-sports-game-assessment/static/js/main.a568e16f.chunk.js",
+    "main.js.map": "/react-sports-game-assessment/static/js/main.a568e16f.chunk.js.map",
+    "runtime-main.js": "/react-sports-game-assessment/static/js/runtime-main.4bd516d6.js",
+    "runtime-main.js.map": "/react-sports-game-assessment/static/js/runtime-main.4bd516d6.js.map",
+    "static/js/2.fbb68554.chunk.js": "/react-sports-game-assessment/static/js/2.fbb68554.chunk.js",
+    "static/js/2.fbb68554.chunk.js.map": "/react-sports-game-assessment/static/js/2.fbb68554.chunk.js.map",
+    "index.html": "/react-sports-game-assessment/index.html",
+    "precache-manifest.8e6f1355bad9d2405ccb582f2e1e85da.js": "/react-sports-game-assessment/precache-manifest.8e6f1355bad9d2405ccb582f2e1e85da.js",
+    "service-worker.js": "/react-sports-game-assessment/service-worker.js",
+    "static/css/main.c884662b.chunk.css.map": "/react-sports-game-assessment/static/css/main.c884662b.chunk.css.map",
+    "static/js/2.fbb68554.chunk.js.LICENSE.txt": "/react-sports-game-assessment/static/js/2.fbb68554.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-sports-game-assessment/static/media/background.59f365b9.jpg",
+    "static/media/logo1.png": "/react-sports-game-assessment/static/media/logo1.a26d4543.png",
+    "static/media/logo2.jfif": "/react-sports-game-assessment/static/media/logo2.2594219c.jfif",
+    "static/media/logo3.jfif": "/react-sports-game-assessment/static/media/logo3.3776dfaf.jfif",
+    "static/media/logo4.png": "/react-sports-game-assessment/static/media/logo4.6c66ad1a.png",
+    "static/media/miss.wav": "/react-sports-game-assessment/static/media/miss.ec73a758.wav",
+    "static/media/score.wav": "/react-sports-game-assessment/static/media/score.1c5e2a77.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd516d6.js",
+    "static/js/2.fbb68554.chunk.js",
+    "static/css/main.c884662b.chunk.css",
+    "static/js/main.a568e16f.chunk.js"
+  ]
+}
